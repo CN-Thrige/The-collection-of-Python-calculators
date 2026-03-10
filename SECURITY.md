@@ -7,8 +7,8 @@ currently being supported with security updates.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 5.1.x   | measurement calculator :white_check_mark: |
-| 5.0.x   | DANGEROUS CALCULATOR :white_check_mark:   |
+| 1.0.0   | measurement calculator :white_check_mark: |
+| 1.0.0   | DANGEROUS CALCULATOR :white_check_mark:   |
 | 1.0.0   | Standard calculator :white_check_mark: |
 | 1.0.0   | distance-price calculator  :x: |
 | 2.0.0   | distance-price calculator  :white_check_mark: |
