@@ -9,8 +9,10 @@ currently being supported with security updates.
 | ------- | ------------------ |
 | 5.1.x   | measurement calculator :white_check_mark: |
 | 5.0.x   | DANGEROUS CALCULATOR :white_check_mark:   |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| 1.0.0   | Standard calculator :white_check_mark: |
+| 1.0.0   | distance-price calculator  :x: |
+| 2.0.0   | distance-price calculator  :white_check_mark: |
+| 1.0.0 | Circut calculator :x:                |
 
 ## Reporting a Vulnerability
 
